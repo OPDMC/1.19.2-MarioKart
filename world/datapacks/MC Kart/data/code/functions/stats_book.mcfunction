@@ -1,0 +1,2 @@
+item replace block -430 16 70 container.0 with written_book{display:{Name:'{"text":"Statistics"}'},title:"",author:"",pages:['{"text":"nöe"}']} 1
+data modify block -430 16 70 Items[0].tag.pages append from block -431 16 70 Text1

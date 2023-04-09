@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2022-08-21 08:25:18 +0000",
+      "minecraft:jungle": "2022-08-21 08:26:16 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}

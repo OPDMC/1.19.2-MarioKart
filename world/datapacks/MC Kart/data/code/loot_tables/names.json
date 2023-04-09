@@ -1,0 +1,3901 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pietbauer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Brünner",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Nöe",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dieter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Achmed",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Peach",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Franz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dieter Bohne",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Elton Mustard",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Da Vinci",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Harald Lösch",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gabriel",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Heinz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Josef",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jürgen",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Steffan",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sebaschtian",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] ShyGuy",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Thomas",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Albert",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Xhane",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] RanzFranz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Friedrich",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Günther",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Lauch",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Grian",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Harry Potter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Toad2",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Daisy",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Spock",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Luke Skywalker",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Darth Vader",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Obi wan Kenobi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Reinhart",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jeracraft",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mumbo Jumbo",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] PvPMaster3000",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Keralis",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] SchrottBot",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Emilia",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Santa Claus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Goethe",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jonny Depp",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ironman",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ruben",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Frieda",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Julien Bam",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mark Rober",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mr Bean",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mr Beast",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Kampfkarotten",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] TheFatRat",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] SkyBlockSquad",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] DieRenneHenne",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Joe Biden",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Han Solo",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jack Sparrow",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Admiral Ackbar",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Klaas",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Benni",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Alfons",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Nöes Bruder Möe",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Simon",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ursula",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ronny",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Franziska",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] SuperGiraffe",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Henry",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Olaf",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Tobyas72",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Marvin",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jotoso",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Aether",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Nöe",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Akari",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Lambert",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] TheJoCraft",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gronkh",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] SparkofPhoenix",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Kai",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jay",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Cole",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Zane",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sensai Wu",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jack Sheppert",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] John Locke",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] John Wick",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Frodo",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Perry",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Heinz Doofenschmirtz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Winnetou",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pillen Piet",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mega Marvin",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Brünner das Biest",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Tornado Tobi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mickey Maus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Donald Duck",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dagobert Duck",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gönnjamin Blümchen",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Chaosflo44",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Kylo Ren",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Toni Krosss",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Manuel Alter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Manuel Neuer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Held der Steine",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Osterhase",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Weihnachtsmann",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Angelo Mertens",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Merkel",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gandalf",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Motz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Speedy Gonzales",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Rennfahrer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Führerscheinlos",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Geruchsneutral",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] deine Motivation",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Venti",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ganyu",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Copy Pasta",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gwyndolin",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Deutsche Bahn",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Flixbus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Peter Griffin",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sif",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Alf",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Tim",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Struppi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Obelix",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Asterix",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Tadeus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jinx",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Maokai",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ernie",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Bert",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Bart Simpson",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Homer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Aristoteles",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Artemis",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Zeus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ares",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Hermes",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] pixel06",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Link",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Simba",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Chase",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Rewinside",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sphynx",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pharao",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Stranger Spynx",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Die Ärtzte",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Rammstein",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Marti Fischer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Giesela",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Wirtual",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Alex",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] RGBpxel",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Timmy Turner",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Totoro",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sally Bollywood",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Roger",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Elflyn",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Han Duo",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sankt Martin",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Krampus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Axel Stoll",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Karsten Stahl",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Olaf Scholz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Larry Lobster",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Papa",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Luck",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Scarlett",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dr. Strange",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sonic",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Thüringer Klöße",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] John Lennon",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ringostar",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Paul McCartney",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Neil Armstrong",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Neil Legstrong",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Legolas",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gendersternchen",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Leroy Jenkins",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Naruto",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pikachu",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Picasso",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Beethoven",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mozart",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Erika",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mozart bitter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] The Queen",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Technoblade",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dream",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Deine Mama",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Erik",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] tHe ReD",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Tom",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Batman",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Joker",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Bill Gates",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Elon Musk",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Günter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mario",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Luigi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Toad",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Browser",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Michael Schumacher",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Racehans",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] BastiGHG",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pinker Toad",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Wladimir",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Putzlappen",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Faith",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Waluigi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Kek Maier",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] AliYa",
+                  "bold": true
+                }
+              }
+            ]
+          },		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] AAADDDRRRIIIAAANNN",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		{
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Hecker",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Rammus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] JoeMama",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Flyx",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Dr.EmmetBrown",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Marty McFly",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Eliminator",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Benji Ewald",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Will Smith",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Rambo",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Arnold Schwarzenegger",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Peter Lustig",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Peter Unlustig",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Willi Weizel",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Spongebob",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Patrick",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Mr Crabs",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Thaddäus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Homer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Sus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Among Us",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Composter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Pieter RePieter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+		  {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Henning",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Noah",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Io",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Alexander",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Raushart",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Fahrzeugbesitzer",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] EiscreamCrafter",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Commander Hopp",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Commander Greek",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Grieche",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Amber Heard",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Caesar",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Ronald McDonald",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jesus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Moritz",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Paimon",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Lumine",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Kaeya",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Diluc",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Lisa",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Indiana Jones",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Jakob",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Elise",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Barack Obama",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Gandhi",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Steve Jobs",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Michael Jackson",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Freddy Mercury",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Justus",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Peter Panflöte",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Captain Hook",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Aiman Abdallah",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Stefan Gödde",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Steffan Raab",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Der Sandmann",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Spiderman",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Link",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] Brian",
+                  "bold": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:stone",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "[AI] GyrosFighter",
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

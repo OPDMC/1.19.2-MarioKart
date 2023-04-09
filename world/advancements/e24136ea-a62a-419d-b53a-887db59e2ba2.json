@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2022-06-09 10:13:53 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

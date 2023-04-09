@@ -1,0 +1,5 @@
+execute as @e[tag=mkr_driver,tag=!shelled,sort=furthest,distance=0.1..] if score @s mkr_platz <= opfer mkr_cd run scoreboard players operation opfer mkr_math = @s mkr_id
+execute as @e[tag=mkr_driver] at @s if score @s mkr_id = opfer mkr_math run tag @s add shelled
+execute as @e[tag=mkr_driver] at @s if score @s mkr_id = opfer mkr_math run summon armor_stand ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,Invisible:1b,PersistenceRequired:1b,Tags:["red_shell"],DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{Unbreakable:1b,CustomModelData:1012}}]}
+execute as @e[tag=mkr_driver] at @s if score @s mkr_id = opfer mkr_math run scoreboard players set @e[tag=red_shell,limit=1,sort=nearest] mkr_cd 60
+execute as @e[tag=mkr_driver] at @s if score @s mkr_id = opfer mkr_math run scoreboard players operation @e[tag=red_shell,limit=1,sort=nearest] mkr_id = opfer mkr_math

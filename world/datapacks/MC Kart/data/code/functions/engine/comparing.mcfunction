@@ -1,0 +1,1 @@
+execute if score temp4 mkr_progress < @s mkr_progress run scoreboard players add temp4 mkr_platz 1
