@@ -21,7 +21,7 @@ Version numbers are represented as `vA.B` (e.g., `v1.0`, `v1.1`, `v2.0`), where 
 ## 2 Usage
 
 ```shell
-docker pull quay.io/opdmc/1.19.2-mariokart:latest
+docker pull quay.io/opdmc/1.19.2-mariokart:v2.0
 ```
 
 ```shell
