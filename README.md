@@ -22,7 +22,7 @@ Version numbers are represented as `vA.B` (e.g., `v1.0`, `v1.1`, `v2.0`), where 
 ## 2 Usage
 
 ```shell
-docker pull quay.io/opdmc/1.19.2-mariokart:v2.0
+docker pull opdmc/1.19.2-mariokart
 ```
 
 ```shell
@@ -30,7 +30,7 @@ docker run -d \
   --name=1.19.2-mariokart \
   -p 127.0.0.1:80:25565/tcp \
   -v /path/to/store/data:/minecraft \
-  quay.io/opdmc/1.19.2-mariokart:v2.0
+  opdmc/1.19.2-mariokart
 ```
 
 | Parameter                                       | Function                        |
