@@ -40,11 +40,12 @@ docker run -d \
 
 ## 3 Reference
 
-- **Author For [*Mario Kart in Minecraft!*]**
-  - https://github.com/ItsaMeMarvino
-  - https://www.planetminecraft.com/member/skyblocksquad/
-- **The [*Mario Kart in Minecraft!*] Minecraft Project**
-  - https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/
+- ***Mario Kart in Minecraft!***
+  - **Author**
+    - https://github.com/ItsaMeMarvino
+    - https://www.planetminecraft.com/member/skyblocksquad/
+  - **Project Source**
+    - https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/
 - **Texture Pack**
   - https://www.dropbox.com/s/j4lrj0xc1ehlh8h/MCKart.zip?dl=1
 
