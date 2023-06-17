@@ -46,8 +46,8 @@ docker run -d \
     - https://www.planetminecraft.com/member/skyblocksquad/
   - **Project Source**
     - https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/
-- **Texture Pack**
-  - https://www.dropbox.com/s/j4lrj0xc1ehlh8h/MCKart.zip?dl=1
+  - **Texture Pack**
+    - https://www.dropbox.com/s/j4lrj0xc1ehlh8h/MCKart.zip?dl=1
 
 ## 4 License
 
