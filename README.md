@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> By using this project, you acknowledge and agree that the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) is automatically set to TRUE.
+> 
+> 使用本项目即表示您承认并同意 [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) 已自动设置为 TRUE。
+
 <div align="center">
 	<img src="https://github.com/OPDMC/1.19.2-MarioKart/raw/main/%23README/icon_512.png" width="20%"/>
     <h1>1.19.2-MarioKart <code>v2.0</code></h1>
@@ -50,5 +55,9 @@ docker run -d \
     - https://www.dropbox.com/s/j4lrj0xc1ehlh8h/MCKart.zip?dl=1
 
 ## 4 License
+
+By using this project, you agree to the Minecraft End User License Agreement (EULA). The EULA can be found at the following link: [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula).  This project automatically sets the EULA to true in the Minecraft configuration. By continuing to use this project, you acknowledge that you have read, understood, and agreed to the terms of the Minecraft EULA.
+
+使用本项目即表示您同意《Minecraft 最终用户许可协议》（EULA）。EULA 可通过以下链接查看：[Minecraft EULA](https://account.mojang.com/documents/minecraft_eula)。 本项目会自动在 Minecraft 配置中将 EULA 设置为 true。继续使用本项目即表示您已阅读、理解并同意 Minecraft EULA 的条款。
 
 Apache License 2.0
