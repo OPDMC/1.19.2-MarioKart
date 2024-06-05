@@ -7,10 +7,14 @@
 	<img src="https://github.com/OPDMC/1.19.2-MarioKart/raw/main/%23README/icon_512.png" width="20%"/>
     <h1>1.19.2-MarioKart <code>v2.0</code></h1>
 	<a href='https://github.com/OPDMC/1.19.2-MarioKart'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
-	<a href='https://quay.io/repository/opdmc/1.19.2-mariokart'><img src="https://img.shields.io/badge/-Quay.io-ee0000?style=flat&amp;logo=RedHat&amp;logoColor=white" referrerpolicy="no-referrer" alt="Quay.io"></a>
-	<a href='https://hub.docker.com/r/opdmc/1.19.2-mariokart'><img src="https://img.shields.io/badge/-DockerHub-1c90ed?style=flat&amp;logo=Docker&amp;logoColor=white" referrerpolicy="no-referrer" alt="DockerHub"></a>
-    </tr>
+	<a href='https://github.com/OPDMC/1.19.2-MarioKart/pkgs/container/1.19.2-mariokart'><img src="https://img.shields.io/badge/Ghcr.io-v2.0-555555?labelColor=8957E5&style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="Ghcr.io"></a>
+    <a href='https://quay.io/repository/opdmc/1.19.2-mariokart'><img src="https://img.shields.io/badge/DockerHub-v2.0-555555?labelColor=1c90ed&style=flat&amp;logo=Docker&amp;logoColor=white" referrerpolicy="no-referrer" alt="DockerHub"></a>
+	<a href='https://hub.docker.com/r/opdmc/1.19.2-mariokart'><img src="https://img.shields.io/badge/Quay.io-v2.0-555555?labelColor=ee0000&style=flat&amp;logo=RedHat&amp;logoColor=white" referrerpolicy="no-referrer" alt="Quay.io"></a>
+
+![Docker Image Size](https://img.shields.io/docker/image-size/opdmc/1.19.2-mariokart?arch=amd64&label=AMD64&color=006688) ![Docker Image Size](https://img.shields.io/docker/image-size/opdmc/1.19.2-mariokart?arch=arm64&label=ARM64&color=008866)
+  </tr>
 </div>
+
 
 ## 1 Description
 
@@ -24,10 +28,21 @@ This is a Dockerized Minecraft server for personal use by members of the OPDMC g
 
 Version numbers are represented as `vA.B` (e.g., `v1.0`, `v1.1`, `v2.0`), where changes to `A` indicate that some manual modifications are required in the persistent files mounted with `-v /path/to/store/data:/minecraft`. On the other hand, `B` represents minor version updates; theoretically, `v1.0` can be directly upgraded to `v1.1` because they share the same major version.
 
+### 1.2 Client
+
+此服务端为原版纯数据包实现，原版客户端均可连接。
+
+This server is implemented with the original vanilla data pack, and the original vanilla client can connect to it.
+
 ## 2 Usage
 
 ```shell
-docker pull opdmc/1.19.2-mariokart
+# DockerHub
+docker pull opdmc/1.19.2-mariokart:latest
+# Ghcr.io
+docker pull ghcr.io/opdmc/1.19.2-mariokart:latest
+# Quay.io (Deprecated)
+docker pull quay.io/opdmc/1.19.2-mariokart:v2.0
 ```
 
 ```shell

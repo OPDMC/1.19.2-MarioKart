@@ -1,0 +1,233 @@
+name: Release Actions
+
+# Org Secrets:
+# - GHCR_USERNAME: GitHub Container Registry username (organization name)
+# - GH_USERNAME: GitHub username (an organization admin)
+# - GH_TOKEN: GitHub Container Registry token (PAT from an organization admin)
+# - QUAY_USERNAME: Quay.io username
+# - QUAY_PASSWORD: Quay.io password
+# - DOCKERHUB_LOGINNAME: Docker Hub login username
+# - DOCKERHUB_PASSWORD: Docker Hub password
+# - DOCKERHUB_ORGNAME: Docker Hub organization name
+
+on:
+  release:
+    types: [ published ]
+
+jobs:
+  handle-docker-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
+        with:
+          platforms: all
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+        with:
+          install: true
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ secrets.GHCR_USERNAME }}
+          password: ${{ secrets.GH_TOKEN }}
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          registry: docker.io
+          username: ${{ secrets.DOCKERHUB_LOGINNAME }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+
+      - name: Build and push Docker Images
+        run: |
+          IMAGE_NAME=$(basename ${{ github.repository }})
+          IMAGE_NAME=$(echo $IMAGE_NAME | tr '[:upper:]' '[:lower:]')
+          OWNER=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')
+          TAG=$(echo ${{ github.event.release.tag_name }} | tr '[:upper:]' '[:lower:]')
+          docker buildx create --use
+          docker buildx inspect --bootstrap
+          docker buildx build --platform linux/amd64,linux/arm64 --push -t ghcr.io/${OWNER}/${IMAGE_NAME}:${TAG} -t ghcr.io/${OWNER}/${IMAGE_NAME}:latest .
+          docker buildx build --platform linux/amd64,linux/arm64 --push -t ${{ secrets.DOCKERHUB_ORGNAME }}/${IMAGE_NAME}:${TAG} -t ${{ secrets.DOCKERHUB_ORGNAME }}/${IMAGE_NAME}:latest .
+
+      - name: Export Docker images to tar files
+        run: |
+          IMAGE_NAME=$(basename ${{ github.repository }})
+          IMAGE_NAME=$(echo $IMAGE_NAME | tr '[:upper:]' '[:lower:]')
+          TAG=$(echo ${{ github.event.release.tag_name }} | tr '[:upper:]' '[:lower:]')
+          ARCHS="amd64 arm64"
+          for ARCH in $ARCHS; do
+            FILE_NAME=docker-img_${IMAGE_NAME}_${TAG}_${ARCH}.tar
+            docker pull --platform linux/$ARCH ${{ secrets.DOCKERHUB_ORGNAME }}/${IMAGE_NAME}:${TAG}
+            docker save -o $FILE_NAME ${{ secrets.DOCKERHUB_ORGNAME }}/${IMAGE_NAME}:${TAG}
+            echo "FILE_NAME_$ARCH=$FILE_NAME" >> $GITHUB_ENV
+          done
+
+      - name: Upload Docker image tar (amd64) to release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ${{ env.FILE_NAME_amd64 }}
+          asset_name: ${{ env.FILE_NAME_amd64 }}
+          asset_content_type: application/x-tar
+
+      - name: Upload Docker image tar (arm64) to release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ${{ env.FILE_NAME_arm64 }}
+          asset_name: ${{ env.FILE_NAME_arm64 }}
+          asset_content_type: application/x-tar
+
+#  handle-client-package:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v2
+#
+#      - name: Set up environment variables
+#        id: vars
+#        run: |
+#          REPO_NAME=$(basename $GITHUB_REPOSITORY)
+#          REPO_NAME_LOWER=$(echo $REPO_NAME | tr '[:upper:]' '[:lower:]')
+#          RELEASE_TAG=$(echo ${{ github.ref }} | sed 's/refs\/tags\///')
+#          RELEASE_TAG_LOWER=$(echo $RELEASE_TAG | tr '[:upper:]' '[:lower:]')
+#          TEMP_DIR="client_${REPO_NAME_LOWER}_${RELEASE_TAG_LOWER}"
+#          echo "::set-output name=repo_name::$REPO_NAME"
+#          echo "::set-output name=repo_name_lower::$REPO_NAME_LOWER"
+#          echo "::set-output name=release_tag::$RELEASE_TAG"
+#          echo "::set-output name=release_tag_lower::$RELEASE_TAG_LOWER"
+#          echo "::set-output name=temp_dir::$TEMP_DIR"
+#
+#      - name: Create temporary directory
+#        run: mkdir ${{ steps.vars.outputs.temp_dir }}
+#
+#      - name: Copy minecraft_client to temporary directory
+#        run: cp -r minecraft_client ${{ steps.vars.outputs.temp_dir }}/${{ steps.vars.outputs.repo_name }}
+#
+#      - name: Zip the directory
+#        run: |
+#          cd ${{ steps.vars.outputs.temp_dir }}
+#          zip -r ../${{ steps.vars.outputs.temp_dir }}.zip .
+#          cd ..
+#
+#      - name: Upload zip to release
+#        uses: actions/upload-release-asset@v1
+#        with:
+#          upload_url: ${{ github.event.release.upload_url }}
+#          asset_path: ${{ steps.vars.outputs.temp_dir }}.zip
+#          asset_name: ${{ steps.vars.outputs.temp_dir }}.zip
+#          asset_content_type: application/zip
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+  handle-file-uploads:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Get previous tag
+        id: prev-tag
+        run: |
+          git fetch --tags
+          tags=$(git tag --sort=-creatordate | tr '\n' ' ')
+          echo "All tags: $tags"
+          tag_count=$(echo "$tags" | wc -w)
+          echo "Tag count: $tag_count"
+          if [ "$tag_count" -lt 2 ]; then
+            echo "Error: Not enough tags to determine previous tag." >&2
+            exit 1
+          fi
+          prev_tag=$(echo "$tags" | awk '{print $2}')
+          if [ -z "$prev_tag" ]; then
+            echo "Error: Could not determine previous tag." >&2
+            exit 1
+          fi
+          echo "Previous tag is $prev_tag"
+          echo "PREV_TAG=$prev_tag" >> $GITHUB_ENV
+
+      - name: Get current tag
+        id: curr-tag
+        run: echo "CURR_TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Get branch for release
+        id: branch
+        run: echo "BRANCH=main" >> $GITHUB_ENV
+
+      - name: Update version numbers
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          PREV_TAG: ${{ env.PREV_TAG }}
+          CURR_TAG: ${{ env.CURR_TAG }}
+        run: python .github/scripts/UpdateVersionNumber.py $GITHUB_WORKSPACE $PREV_TAG $CURR_TAG
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'version-updater[bot]'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Commit changes if any
+        run: |
+          git add .
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update version from ${{ env.PREV_TAG }} to ${{ env.CURR_TAG }}"
+          fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ env.BRANCH }}
+
+      - name: Pull latest changes
+        run: git pull origin ${{ env.BRANCH }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Get README content
+        id: get_readme
+        run: |
+          readme_content=$(cat README.md)
+          echo "README content: $readme_content"
+          echo "::set-output name=content::$readme_content"
+
+      - name: Convert repository name to lowercase
+        id: set-repo-name
+        run: echo "REPO_NAME=$(echo ${{ github.repository }} | awk -F/ '{print tolower($2)}')" >> $GITHUB_ENV
+
+      - name: Set DockerHub repository
+        id: set-dockerhub-repo
+        run: echo "DOCKERHUB_REPO=${{ secrets.DOCKERHUB_ORGNAME }}/$(echo ${{ github.repository }} | awk -F/ '{print tolower($2)}')" >> $GITHUB_ENV
+
+      - name: Update DockerHub README
+        uses: peter-evans/dockerhub-description@v2
+        with:
+          username: ${{ secrets.DOCKERHUB_LOGINNAME }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          repository: ${{ env.DOCKERHUB_REPO }}
+          readme-filepath: README.md
