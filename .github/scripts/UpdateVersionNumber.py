@@ -23,8 +23,7 @@ def main():
     old_version = sys.argv[2]
     new_version = sys.argv[3]
 
-    # #§§template§§#§§template§§#§§template§§
-    update_version_number(repo_root, 'README.md', "utf-8", [8, 10, 11], old_version, new_version)
+    update_version_number(repo_root, 'README.md', "utf-8", [9, 11, 12], old_version, new_version)
     # update_version_number(repo_root, '#README/README-cn.md', "utf-8", [3, 6], old_version, new_version)
     # update_version_number(repo_root, 'Dockerfile', "utf-8", [16], old_version, new_version)
 

@@ -1,4 +1,5 @@
 > [!IMPORTANT]
+> 
 > This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Detailed information is specified in the `3 Reference` section below. Please respect the original author's copyright.
 > 
 > By using this project, you acknowledge and agree that the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) is automatically set to TRUE.
