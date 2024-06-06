@@ -11,11 +11,11 @@
 
 > [!IMPORTANT]
 > 
-> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Detailed information is specified in the `3 Reference` section below. Please respect the original author's copyright.
+> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Please respect the original author's copyright.
 > 
 > By using this project, you acknowledge and agree that the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) is automatically set to TRUE.
 > 
-> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，详细信息在下方的 `3 Reference` 中注明了，请尊重原作者版权。
+> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，请尊重原作者版权。
 > 
 > 使用本项目即表示您承认并同意 [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) 已自动设置为 TRUE。
 
@@ -49,11 +49,11 @@ docker run -d \
 
 > [!IMPORTANT]
 > 
-> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Detailed information is specified in the `3 Reference` section below. Please respect the original author's copyright.
+> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Please respect the original author's copyright.
 > 
 > By using this project, you acknowledge and agree that the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) is automatically set to TRUE.
 > 
-> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，详细信息在下方的 `3 Reference` 中注明了，请尊重原作者版权。
+> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，请尊重原作者版权。
 > 
 > 使用本项目即表示您承认并同意 [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) 已自动设置为 TRUE。
 
@@ -88,11 +88,11 @@ docker run -d \
 
 > [!IMPORTANT]
 > 
-> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Detailed information is specified in the `3 Reference` section below. Please respect the original author's copyright.
+> This project is merely a Docker packaging of a server created by others. The server's author is SkyblockSquad, and it was published on [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/). Please respect the original author's copyright.
 > 
 > By using this project, you acknowledge and agree that the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) is automatically set to TRUE.
 > 
-> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，详细信息在下方的 `3 Reference` 中注明了，请尊重原作者版权。
+> 此项目仅为对他人制作的服务器的 Docker 打包。此服务端作者为 SkyblockSquad，发布于 [planetminecraft.com](https://www.planetminecraft.com/project/mario-kart-in-minecraft-1-19/)，请尊重原作者版权。
 > 
 > 使用本项目即表示您承认并同意 [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) 已自动设置为 TRUE。
 
